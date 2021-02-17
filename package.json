@@ -1,0 +1,34 @@
+{
+	"name": "boilerplate-nextjs",
+	"version": "0.1.0",
+	"private": true,
+	"author": {
+		"name": "Sonjoy Datta",
+		"email": "sonjoy.dat@gmail.com"
+	},
+	"license": "UNLICENSE",
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start"
+	},
+	"dependencies": {
+		"bootstrap": "^4.6.0",
+		"dotenv": "^8.2.0",
+		"next": "10.0.7",
+		"react": "17.0.1",
+		"react-bootstrap": "^1.5.0",
+		"react-dom": "17.0.1"
+	},
+	"devDependencies": {
+		"@types/dotenv": "^8.2.0",
+		"@types/node": "^14.14.28",
+		"@types/react": "^17.0.2",
+		"@typescript-eslint/eslint-plugin": "^4.15.1",
+		"@typescript-eslint/parser": "^4.15.1",
+		"eslint": "^7.20.0",
+		"eslint-plugin-react": "^7.22.0",
+		"sass": "^1.32.7",
+		"typescript": "^4.1.5"
+	}
+}
