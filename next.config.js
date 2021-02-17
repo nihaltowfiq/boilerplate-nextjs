@@ -3,6 +3,6 @@ require('dotenv').config();
 
 module.exports = {
 	env: {
-		name: process.env.PUBLIC_URI,
+		website: process.env.WEBSITE_URI,
 	},
 };

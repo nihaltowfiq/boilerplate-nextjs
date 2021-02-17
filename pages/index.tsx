@@ -14,7 +14,7 @@ const Homepage = (): JSX.Element => {
 					<Col>
 						<h2 className="text-dark mt-3">Next.js Boilerplate</h2>
 						<p className="text-black-50">
-							by Sonjoy Datta - <a href={process.env.name}>website</a>
+							by Sonjoy Datta - <a href={process.env.website}>website</a>
 						</p>
 
 						<div className="w-100 d-block">
